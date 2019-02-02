@@ -1,0 +1,7 @@
+[package]
+name = "pg_query"
+version = "0.1.0"
+authors = ["Elliot Courant <elliot.courant@readystock.io>"]
+edition = "2018"
+
+[dependencies]
